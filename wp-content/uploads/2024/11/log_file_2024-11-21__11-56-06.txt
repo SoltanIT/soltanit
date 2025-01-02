@@ -1,0 +1,91 @@
+
+---Downloaded files---
+The import files for: Main Demo (with inner pages) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\wamp64\www\wordpress/wp-content/uploads/2024/11/demo-content-import-file_2024-11-21__11-56-06.xml
+Widget file = C:\wamp64\www\wordpress/wp-content/uploads/2024/11/demo-widgets-import-file_2024-11-21__11-56-06.json
+Customizer file = not defined!
+Redux files:
+crysa_option -> C:\wamp64\www\wordpress/wp-content/themes/crysa//inc/demos/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Widget already exists
+Crysa Recent Posts - Recent Post - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Service Sidebar : 
+
+Navigation Menu - Technology Services - Imported
+Crysa Service Image - No Title - Imported
+Crysa Service Brochure Widget - Brochure - Imported
+
+Footer Sidebar 1 : 
+
+Block - No Title - Imported
+
+Footer Sidebar 2 : 
+
+Block - No Title - Imported
+
+Footer Sidebar 3 : 
+
+Block - No Title - Imported
+
+Footer Sidebar 4 : 
+
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: crysa_option finished successfully!
+
+---ocdi/after_import---
+

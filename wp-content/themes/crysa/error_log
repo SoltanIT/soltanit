@@ -1,0 +1,4 @@
+[27-Oct-2022 09:50:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/valifzxf/public_html/themeforest/wp/crysa/wp-content/themes/crysa/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/valifzxf/public_html/themeforest/wp/crysa/wp-content/themes/crysa/header.php on line 12
